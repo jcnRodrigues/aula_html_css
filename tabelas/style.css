@@ -1,17 +1,6 @@
-table , td, th {
-    border: solid 1px black;
-    border-collapse: collapse;
+table {
+    width: 100%;
 }
-
-td, th {
-    width: 120px;
-    text-align: center;
-}
-
-th{
-    background-color: rgb(77, 182, 182);
-}
-
-td {
-    background-color: azure;
+table, th, td {
+    border: solid;
 }
